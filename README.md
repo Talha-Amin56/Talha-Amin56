@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="150">
   <img src="https://img.shields.io/badge/-PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="150">
 </td>
-
+  </tr>
     <td>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="150">
       <img src="https://img.shields.io/badge/-My%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="150">
