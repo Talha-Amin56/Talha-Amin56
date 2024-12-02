@@ -26,7 +26,7 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-My%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="150">
+      <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="150">
       <img src="https://img.shields.io/badge/-Power%20BI-FFB11A?style=for-the-badge&logo=powerbi&logoColor=white" width="150">
       <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" width="150">
       <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="150">
