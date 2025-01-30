@@ -57,7 +57,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-Amin56&theme=dark" alt="GitHub Streak">
 </p>
-----
 
 ---
 
