@@ -54,9 +54,8 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Talha-Amin56&theme=dark" alt="GitHub Streak">
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Talha-Amin56&theme=dark)
+
 
 
 ---
