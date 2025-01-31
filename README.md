@@ -55,8 +55,9 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-Amin56&theme=dark" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=Talha-Amin56&theme=dark" alt="GitHub Streak">
 </p>
+
 
 ---
 
