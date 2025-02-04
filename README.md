@@ -55,8 +55,10 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-Amin56&theme=dark" alt="GitHub Streak">
-</p>
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p> -->
 
 
 
